@@ -10,5 +10,5 @@ Real-life implementation can be seen in the pharmacy sector or any sector involv
 
 ⮞ Working of the Project
 
-Here is the working video of Stage Wise Temperature Intrusion Detection System.
+Here is the working video of Stage Wise Temperature Intrusion Detection System. <br>
 https://www.youtube.com/watch?v=CZH2W9TyPgU&feature=emb_logo
